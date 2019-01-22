@@ -2,6 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  I Am Poor
+![](image.png)
 
 ## Our Goal
 
